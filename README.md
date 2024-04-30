@@ -1,4 +1,6 @@
 ### Hi there 👋
+🏡 Sou Brasileiro, gaúcho nascido em Capão do Leão
+📚 Estudante de ADS no UniSenac
 
 <!--
 **Monterd/Monterd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
